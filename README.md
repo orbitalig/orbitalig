@@ -2,7 +2,7 @@
 
 - 🔭 I’m a full-stack developer
 - 💼 I've been coding for over 6 years
-- 🎮 I work with system administration a lot too
+- 🎮 I work with system administration a lot
 
 
 ### 💻 Languages and Tools:
